@@ -1,0 +1,48 @@
+IMAGE LINKS USED IN THE MODERN FRAME GALLERY WEBSITE
+====================================================
+
+HERO SECTION BACKGROUND IMAGES:
+- https://picsum.photos/1200/600?random=16 (Used in all hero sections)
+
+HOME PAGE (index.html):
+Featured Artwork Section:
+- https://picsum.photos/400/300?random=1 (Featured artwork 1)
+- https://picsum.photos/400/300?random=2 (Featured artwork 2)
+
+Upcoming Exhibition Section:
+- https://picsum.photos/400/300?random=3 (Exhibition preview image)
+
+GALLERY PAGE (gallery.html):
+Gallery Grid:
+- https://picsum.photos/400/300?random=4 (Ethereal Dreams)
+- https://picsum.photos/400/300?random=5 (Urban Symphony)
+- https://picsum.photos/400/300?random=6 (Whispers of Time)
+- https://picsum.photos/400/300?random=7 (Metamorphosis)
+- https://picsum.photos/400/300?random=8 (Celestial Dance)
+- https://picsum.photos/400/300?random=9 (Abstract Harmony)
+
+ABOUT PAGE (about.html):
+History Section:
+- https://picsum.photos/400/300?random=10 (Gallery history image)
+
+Artists Section:
+- https://picsum.photos/400/300?random=11 (Artist: Maria Rodriguez)
+- https://picsum.photos/400/300?random=12 (Artist: James Chen)
+- https://picsum.photos/400/300?random=13 (Artist: Sarah Williams)
+
+CONTACT PAGE (contact.html):
+Contact Section:
+- https://picsum.photos/400/300?random=14 (Gallery exterior)
+
+Map Section:
+- https://picsum.photos/600/400?random=15 (Location map placeholder)
+
+VIDEO FILES:
+- videos/Can_you_generate_202508050234_j1nnz.mp4 (Virtual gallery tour)
+- videos/Can_you_generate_202508050234_alkbr.mp4 (Behind the scenes)
+
+TOTAL IMAGES: 15 unique images from Picsum Photos
+TOTAL VIDEOS: 2 local video files
+
+Note: All images are from https://picsum.photos/ which provides random placeholder images.
+Each image has a unique random parameter to ensure different images are displayed. 
